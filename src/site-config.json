@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Inimitable Hardwood Floors LLC",
+    "phone": "+19188091012",
+    "category": "flooring contractor",
+    "city": "Tulsa",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Hardwood Flooring Experts in Tulsa",
+      "heroSubline": "Uncompromising quality and lasting beauty for your Tulsa home. Get a free estimate today!",
+      "aboutTitle": "Crafting Tulsa's Finest Floors",
+      "aboutText": [
+        "Inimitable Hardwood Floors LLC started with a simple mission: to provide Tulsa homeowners with exceptional hardwood flooring services. We saw a need for contractors who valued craftsmanship and customer satisfaction above all else.",
+        "Our approach is straightforward: we listen to your needs, provide honest advice, and deliver flawless results. We use premium materials and time-tested techniques to ensure your floors stand the test of time. We believe in doing the job right the first time, every time.",
+        "We're proud to be a part of the Tulsa community. We support local suppliers and actively participate in neighborhood revitalization projects. When you choose Inimitable Hardwood Floors, you're supporting a business that cares about our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precise, durable installations that enhance the beauty and value of your home."
+        },
+        {
+          "title": "Dustless Refinishing",
+          "description": "Minimize mess and disruption while restoring your floors to their original glory."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "Create a unique look with custom borders, patterns, and inlays."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "We source only the finest hardwoods and finishes for lasting beauty and performance."
+        }
+      ],
+      "ctaHeadline": "Transform Your Tulsa Home Today!",
+      "ctaSubline": "Schedule a free consultation and discover the possibilities for your floors."
+    },
+    "services": [
+      {
+        "slug": "hardwood-installation",
+        "name": "Hardwood Installation",
+        "shortDescription": "Expert hardwood installation services for Tulsa homes.",
+        "description": "From classic oak to exotic hardwoods, we offer a wide selection of flooring options to suit your style and budget. Our experienced installers ensure precise and durable installations that enhance the beauty and value of your home. We handle every step of the process, from subfloor preparation to finishing touches, with meticulous attention to detail. We consider Tulsa's climate when recommending wood types and finishes, ensuring longevity against seasonal changes. Newer homes in Bixby or Jenks, or older homes in midtown Tulsa – we customize our approach for each project. We work with solid hardwood, engineered hardwood, and laminate flooring.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs and help you select the perfect flooring.",
+          "Step 2: Subfloor Preparation – Ensuring a level and stable base for your new floor.",
+          "Step 3: Precise Installation – Expert installation using industry-leading techniques.",
+          "Step 4: Finishing and Cleanup – Sanding, staining, and sealing for a flawless finish, followed by thorough cleanup."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Enhanced aesthetic appeal",
+          "Durable and long-lasting floors",
+          "Improved air quality"
+        ],
+        "faq": [
+          {
+            "question": "How long does hardwood installation take?",
+            "answer": "The duration depends on the size and complexity of the project, but typically ranges from 2-5 days. We will provide a detailed timeline during the consultation."
+          },
+          {
+            "question": "What type of hardwood is best for Tulsa homes?",
+            "answer": "Oak is a popular and durable choice for Tulsa homes, known for its resistance to wear and tear. Engineered hardwood is also a great option, especially in areas prone to moisture."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we offer flexible financing options to make your dream floors a reality. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "hardwood-refinishing",
+        "name": "Hardwood Refinishing",
+        "shortDescription": "Restore your hardwood floors to their original beauty.",
+        "description": "Over time, hardwood floors can become scratched, dull, and worn. Our hardwood refinishing services can bring your floors back to life, restoring their original beauty and luster. We use dustless sanding equipment to minimize mess and disruption. Our skilled technicians carefully sand away the old finish, repair any imperfections, and apply a fresh coat of stain and sealant. We offer a variety of stain colors to match your existing décor. Refinishing is an ideal solution for homes in Tulsa's historic districts, preserving the character of original hardwood floors. We handle everything from light surface scratches to deep gouges, ensuring a smooth and even finish. We know the unique challenges of older homes in the Maple Ridge neighborhood.",
+        "process": [
+          "Step 1: Sanding – Removing the old finish and imperfections.",
+          "Step 2: Staining (Optional) – Applying a new stain color to match your desired aesthetic.",
+          "Step 3: Sealing – Protecting the floor with multiple coats of durable sealant.",
+          "Step 4: Final Inspection – Ensuring a flawless finish and your complete satisfaction."
+        ],
+        "benefits": [
+          "Restored beauty and luster",
+          "Increased floor lifespan",
+          "Improved home value",
+          "Cost-effective alternative to replacement"
+        ],
+        "faq": [
+          {
+            "question": "How long does hardwood refinishing take?",
+            "answer": "Typically, hardwood refinishing takes 3-5 days, depending on the size of the area and the number of coats of sealant required. We'll give you a detailed estimate during the initial consultation."
+          },
+          {
+            "question": "Will refinishing create a lot of dust?",
+            "answer": "We use dustless sanding equipment to minimize dust and disruption. Our system captures up to 99% of the dust, keeping your home clean and comfortable."
+          },
+          {
+            "question": "How long should I wait before walking on my refinished floors?",
+            "answer": "We recommend waiting at least 24 hours before walking on your refinished floors and 72 hours before placing furniture. This allows the sealant to fully cure and harden."
+          }
+        ]
+      },
+      {
+        "slug": "hardwood-repair",
+        "name": "Hardwood Repair",
+        "shortDescription": "Expert repairs for damaged hardwood floors.",
+        "description": "Whether you have water damage, scratches, or loose boards, we can repair your hardwood floors and restore them to their original condition. We use matching wood species and finishes to seamlessly blend the repairs with your existing flooring. Our skilled technicians can handle a wide range of repairs, from replacing individual boards to patching large areas. We understand the importance of maintaining the integrity of your hardwood floors, especially in older Tulsa homes. We address common issues like cupping, gapping, and squeaking, ensuring a stable and beautiful floor. We are familiar with the specific challenges presented by the diverse housing stock in Tulsa.",
+        "process": [
+          "Step 1: Assessment – Identifying the extent of the damage and determining the best repair approach.",
+          "Step 2: Board Replacement – Removing damaged boards and replacing them with matching wood.",
+          "Step 3: Patching – Filling in gaps and imperfections with wood filler or epoxy.",
+          "Step 4: Sanding and Finishing – Sanding the repaired area and applying a matching finish."
+        ],
+        "benefits": [
+          "Restored floor integrity",
+          "Seamless repairs",
+          "Prevention of further damage",
+          "Extended floor lifespan"
+        ],
+        "faq": [
+          {
+            "question": "Can you repair water-damaged hardwood floors?",
+            "answer": "Yes, we can repair water-damaged hardwood floors. The extent of the repair will depend on the severity of the damage. We may need to replace affected boards or refinish the entire area."
+          },
+          {
+            "question": "How do you match the existing wood species and finish?",
+            "answer": "We carefully assess the existing wood species and finish and use matching materials to ensure a seamless repair. We have access to a wide range of wood species and stains."
+          },
+          {
+            "question": "What causes hardwood floors to squeak?",
+            "answer": "Squeaking is often caused by loose boards rubbing against the subfloor. We can identify the source of the squeak and secure the boards to eliminate the noise."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring",
+        "shortDescription": "Durable and affordable laminate flooring installations.",
+        "description": "Laminate flooring is a cost-effective and durable alternative to hardwood. It's resistant to scratches, stains, and fading, making it ideal for high-traffic areas and homes with pets or children. We offer a wide selection of laminate flooring styles and colors to match your décor. Our experienced installers ensure a precise and seamless installation. Laminate is a good option for Tulsa homeowners looking for budget-friendly options that hold up to the demands of family life. We understand the importance of proper subfloor preparation for laminate installations, especially in Tulsa's older homes. We also offer moisture-resistant laminate options for areas prone to spills or humidity.",
+        "process": [
+          "Step 1: Consultation and Selection – Choosing the perfect laminate flooring for your needs.",
+          "Step 2: Subfloor Preparation – Leveling and preparing the subfloor for installation.",
+          "Step 3: Precise Installation – Installing the laminate flooring with attention to detail.",
+          "Step 4: Finishing Touches – Installing baseboards and trim for a polished look."
+        ],
+        "benefits": [
+          "Affordable price point",
+          "Durable and scratch-resistant",
+          "Easy to clean and maintain",
+          "Wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "While laminate flooring is water-resistant, it is not completely waterproof. We recommend wiping up spills immediately to prevent damage. We also offer waterproof laminate options for areas prone to moisture."
+          },
+          {
+            "question": "How long will laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years. The lifespan depends on the quality of the flooring and the amount of traffic it receives."
+          },
+          {
+            "question": "Can I install laminate flooring myself?",
+            "answer": "While it's possible to install laminate flooring yourself, we recommend professional installation to ensure a proper and long-lasting result. Our experienced installers have the tools and expertise to do the job right."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring",
+        "shortDescription": "Versatile and waterproof vinyl flooring solutions.",
+        "description": "Vinyl flooring is a popular choice for its versatility, durability, and waterproof properties. It's ideal for bathrooms, kitchens, and other areas prone to moisture. We offer a wide selection of vinyl flooring styles, including sheet vinyl, vinyl tile, and luxury vinyl plank (LVP). Our experienced installers ensure a seamless and waterproof installation. Vinyl flooring is a practical and affordable option for Tulsa homeowners. We are familiar with the specific challenges of installing vinyl flooring in Tulsa's diverse housing stock, including uneven subfloors and moisture issues. We offer a variety of vinyl flooring options to suit your budget and lifestyle.",
+        "process": [
+          "Step 1: Consultation and Selection – Choosing the right vinyl flooring for your needs.",
+          "Step 2: Subfloor Preparation – Ensuring a level and clean subfloor.",
+          "Step 3: Precise Installation – Installing the vinyl flooring with attention to detail.",
+          "Step 4: Sealing and Finishing – Sealing the edges and seams for a waterproof finish."
+        ],
+        "benefits": [
+          "Waterproof and moisture-resistant",
+          "Durable and easy to clean",
+          "Wide variety of styles and colors",
+          "Affordable price point"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its waterproof properties. It's resistant to moisture, mold, and mildew."
+          },
+          {
+            "question": "How do I clean vinyl flooring?",
+            "answer": "Vinyl flooring is easy to clean with a damp mop and mild detergent. Avoid using abrasive cleaners or harsh chemicals."
+          },
+          {
+            "question": "What is the difference between sheet vinyl and vinyl tile?",
+            "answer": "Sheet vinyl comes in large rolls and offers a seamless installation. Vinyl tile comes in individual tiles and allows for more design flexibility."
+          }
+        ]
+      },
+      {
+        "slug": "custom-flooring-designs",
+        "name": "Custom Flooring Designs",
+        "shortDescription": "Create a unique and personalized flooring masterpiece.",
+        "description": "Transform your floors into a work of art with our custom flooring design services. We work with you to create a unique and personalized design that reflects your style and personality. From intricate borders and patterns to custom inlays and medallions, the possibilities are endless. We use a variety of materials, including hardwood, tile, and stone, to create stunning and one-of-a-kind floors. Custom floors are a great way to add value to homes in upscale Tulsa neighborhoods like Brookside and Maple Ridge. We understand the importance of craftsmanship and attention to detail when creating custom flooring designs. We work closely with our clients to ensure their vision is brought to life.",
+        "process": [
+          "Step 1: Design Consultation – Discussing your ideas and creating a custom design plan.",
+          "Step 2: Material Selection – Choosing the perfect materials to complement your design.",
+          "Step 3: Expert Installation – Installing the flooring with precision and artistry.",
+          "Step 4: Finishing Touches – Adding the final details to create a stunning masterpiece."
+        ],
+        "benefits": [
+          "Unique and personalized design",
+          "Increased home value",
+          "Enhanced aesthetic appeal",
+          "A true reflection of your style"
+        ],
+        "faq": [
+          {
+            "question": "How much does a custom flooring design cost?",
+            "answer": "The cost of a custom flooring design depends on the complexity of the design, the materials used, and the size of the area. We will provide a detailed estimate during the design consultation."
+          },
+          {
+            "question": "How long does it take to install a custom flooring design?",
+            "answer": "The installation time depends on the complexity of the design. We will provide a timeline during the design consultation."
+          },
+          {
+            "question": "Can you create a custom design based on a picture or drawing?",
+            "answer": "Yes, we can create a custom design based on a picture or drawing. We will work with you to refine the design and ensure it meets your needs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Tulsa",
+        "slug": "tulsa-ok",
+        "state": "OK",
+        "content": "Inimitable Hardwood Floors LLC is proud to serve the Tulsa, Oklahoma area with top-quality hardwood flooring services. We offer a wide range of options, from classic oak and maple to exotic hardwoods, ensuring you find the perfect flooring to complement your Tulsa home or business. Our expert team provides professional installation, refinishing, and repair services, all with a commitment to excellence and customer satisfaction.\n\nWe understand the unique architectural styles and preferences of Tulsa residents. Whether you're in a historic Brookside bungalow or a modern downtown loft, we can help you choose and install hardwood flooring that enhances your space. We use only the highest-quality materials and employ skilled craftsmanship to ensure a beautiful and durable result that will last for years to come. We also offer dustless sanding options to minimize disruption to your home.\n\nInimitable Hardwood Floors LLC is committed to providing exceptional service and value to our Tulsa customers. Contact us today for a free consultation and let us help you transform your space with beautiful hardwood floors.",
+        "localContext": "Tulsa, known for its art deco architecture and vibrant arts scene, is a dynamic city with diverse neighborhoods, each with its own unique character and charm. From the historic Brady Arts District to the family-friendly suburbs, Tulsa offers a rich tapestry of lifestyles and preferences.",
+        "nearbyAreas": [
+          "Broken Arrow",
+          "Owasso",
+          "Jenks"
+        ]
+      },
+      {
+        "city": "Broken Arrow",
+        "slug": "broken-arrow-ok",
+        "state": "OK",
+        "content": "Inimitable Hardwood Floors LLC extends its premier hardwood flooring services to Broken Arrow, Oklahoma. We specialize in creating stunning and durable hardwood floors for homes and businesses throughout Broken Arrow. From initial consultation to expert installation, our team is dedicated to providing exceptional service and exceeding your expectations.\n\nWe understand the specific needs of Broken Arrow homeowners. Whether you're looking to upgrade your family home or enhance your business space, we offer a wide selection of hardwood flooring options to suit your style and budget. We are committed to using only the highest quality materials and employing skilled craftsmanship to ensure a long-lasting and beautiful result. We can also match existing flooring for seamless repairs or extensions.\n\nInimitable Hardwood Floors LLC is committed to providing exceptional service and value to our Broken Arrow customers. Contact us today for a free consultation and let us help you transform your space with beautiful hardwood floors.",
+        "localContext": "Broken Arrow, a rapidly growing suburb of Tulsa, is known for its excellent schools, family-friendly atmosphere, and thriving business community. Its residents appreciate quality and value, making Inimitable Hardwood Floors LLC a perfect choice for their flooring needs.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Coweta",
+          "Bixby"
+        ]
+      },
+      {
+        "city": "Owasso",
+        "slug": "owasso-ok",
+        "state": "OK",
+        "content": "Inimitable Hardwood Floors LLC proudly serves the Owasso, Oklahoma area, providing top-notch hardwood flooring solutions for homeowners and businesses alike. We pride ourselves on our commitment to quality, craftsmanship, and customer satisfaction. From selecting the perfect wood species to expert installation and finishing, we handle every aspect of your flooring project with precision and care.\n\nWe understand the needs of Owasso residents, who appreciate both beauty and durability in their homes. Whether you're building a new home or renovating an existing one, we offer a wide range of hardwood flooring options to suit your style and budget. We utilize the best materials and techniques to ensure a stunning and long-lasting result. We also offer environmentally friendly options for those seeking sustainable choices.\n\nInimitable Hardwood Floors LLC is dedicated to providing exceptional service and value to our Owasso customers. Contact us today for a free consultation and let us help you transform your space with beautiful hardwood floors.",
+        "localContext": "Owasso, a growing community north of Tulsa, is known for its excellent schools, family-friendly environment, and strong sense of community. Its residents value quality and craftsmanship, making hardwood floors a popular choice for homes and businesses.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Collinsville",
+          "Skiatook"
+        ]
+      },
+      {
+        "city": "Jenks",
+        "slug": "jenks-ok",
+        "state": "OK",
+        "content": "Inimitable Hardwood Floors LLC is delighted to offer our expert hardwood flooring services to the Jenks, Oklahoma community. We are committed to providing exceptional quality, craftsmanship, and customer service. Our team specializes in installing, refinishing, and repairing hardwood floors, ensuring that your home or business looks its best.\n\nWe recognize the unique preferences of Jenks residents, who value both elegance and practicality. Whether you're looking to create a warm and inviting atmosphere in your home or enhance the professional image of your business, we offer a wide selection of hardwood flooring options to meet your needs. We use only the finest materials and employ skilled techniques to ensure a beautiful and durable result. We are also experienced in working with custom designs and patterns.\n\nInimitable Hardwood Floors LLC is dedicated to providing exceptional service and value to our Jenks customers. Contact us today for a free consultation and let us help you transform your space with beautiful hardwood floors.",
+        "localContext": "Jenks, a vibrant city south of Tulsa, is known for its excellent schools, family-friendly atmosphere, and the Oklahoma Aquarium. Its residents appreciate quality and attention to detail, making Inimitable Hardwood Floors LLC a perfect choice for their flooring needs.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Bixby",
+          "Glenpool"
+        ]
+      },
+      {
+        "city": "Bixby",
+        "slug": "bixby-ok",
+        "state": "OK",
+        "content": "Inimitable Hardwood Floors LLC is proud to offer our professional hardwood flooring services to the residents and businesses of Bixby, Oklahoma. We specialize in providing high-quality installation, refinishing, and repair services, ensuring that your hardwood floors are both beautiful and durable.\n\nWe understand the specific needs of Bixby homeowners and business owners. Whether you're looking to upgrade your home's interior or create a welcoming atmosphere in your commercial space, we offer a wide variety of hardwood flooring options to suit your style and budget. We use only the finest materials and employ skilled craftsmanship to ensure a long-lasting and beautiful result. We also offer dustless sanding options to minimize disruption during refinishing projects.\n\nInimitable Hardwood Floors LLC is committed to providing exceptional service and value to our Bixby customers. Contact us today for a free consultation and let us help you transform your space with beautiful hardwood floors.",
+        "localContext": "Bixby, a growing suburb south of Tulsa, is known for its excellent schools, family-friendly environment, and convenient access to the Arkansas River. Its residents value quality and community, making Inimitable Hardwood Floors LLC a perfect choice for their flooring needs.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Jenks",
+          "Coweta"
+        ]
+      },
+      {
+        "city": "Sand Springs",
+        "slug": "sand-springs-ok",
+        "state": "OK",
+        "content": "Inimitable Hardwood Floors LLC extends its expert hardwood flooring services to Sand Springs, Oklahoma. We offer a comprehensive range of services, including installation, refinishing, and repair, all performed with meticulous attention to detail and a commitment to customer satisfaction. We are dedicated to providing Sand Springs residents with the best possible hardwood flooring solutions.\n\nWe understand the diverse architectural styles and preferences in Sand Springs. Whether you own a historic home or a modern residence, we have the expertise to select and install hardwood flooring that complements your space. We use only the highest-quality materials and employ skilled craftsmanship to ensure a beautiful and durable result. We also offer various finishes and stain options to customize your floors to your exact specifications.\n\nInimitable Hardwood Floors LLC is committed to providing exceptional service and value to our Sand Springs customers. Contact us today for a free consultation and let us help you transform your space with beautiful hardwood floors.",
+        "localContext": "Sand Springs, a city west of Tulsa on the Arkansas River, is known for its historic downtown, scenic views, and strong sense of community. Its residents appreciate quality and value, making Inimitable Hardwood Floors LLC a trusted choice for their flooring needs.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sapulpa",
+          "Mannford"
+        ]
+      },
+      {
+        "city": "Sapulpa",
+        "slug": "sapulpa-ok",
+        "state": "OK",
+        "content": "Inimitable Hardwood Floors LLC is pleased to serve Sapulpa, Oklahoma, providing top-quality hardwood flooring services to homes and businesses in the area. We specialize in installation, refinishing, and repair, and our team is dedicated to delivering exceptional results that exceed your expectations.\n\nWe understand the unique character of Sapulpa and the preferences of its residents. Whether you're looking to restore the charm of a historic home or create a modern and stylish space, we offer a wide range of hardwood flooring options to suit your taste and budget. We use only the finest materials and employ skilled craftsmanship to ensure a beautiful and long-lasting result. We also offer custom designs and patterns to create a truly unique floor.\n\nInimitable Hardwood Floors LLC is committed to providing exceptional service and value to our Sapulpa customers. Contact us today for a free consultation and let us help you transform your space with beautiful hardwood floors.",
+        "localContext": "Sapulpa, a city southwest of Tulsa, is known for its historic Route 66 heritage, antique shops, and friendly community. Its residents appreciate quality and craftsmanship, making Inimitable Hardwood Floors LLC a perfect choice for their flooring needs.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sand Springs",
+          "Glenpool"
+        ]
+      },
+      {
+        "city": "Glenpool",
+        "slug": "glenpool-ok",
+        "state": "OK",
+        "content": "Inimitable Hardwood Floors LLC proudly extends its expert hardwood flooring services to Glenpool, Oklahoma. We are dedicated to providing high-quality installation, refinishing, and repair services to homeowners and businesses throughout the Glenpool area. Our team is committed to excellence and customer satisfaction.\n\nWe understand the needs and preferences of Glenpool residents. Whether you're looking to enhance the beauty of your home or create a professional and inviting atmosphere in your business, we offer a wide selection of hardwood flooring options to suit your style and budget. We use only the finest materials and employ skilled craftsmanship to ensure a long-lasting and beautiful result. We also offer environmentally friendly choices for those seeking sustainable options.\n\nInimitable Hardwood Floors LLC is committed to providing exceptional service and value to our Glenpool customers. Contact us today for a free consultation and let us help you transform your space with beautiful hardwood floors.",
+        "localContext": "Glenpool, a growing city south of Tulsa, is known for its family-friendly atmosphere, excellent schools, and convenient access to both Tulsa and the countryside. Its residents value quality and community, making Inimitable Hardwood Floors LLC a trusted choice for their flooring needs.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Jenks",
+          "Sapulpa"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Hardwood Refinishing",
+        "text": "Inimitable Hardwood Floors did an amazing job refinishing the original hardwood floors in our 1930s home in the Cherry Street district. They were professional, efficient, and the floors look brand new! The dustless sanding was a huge plus.",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 4,
+        "service": "Laminate Flooring",
+        "text": "We had Inimitable Hardwood Floors install laminate flooring in our basement after some water damage. They were quick to respond and the installation was flawless. The price was very reasonable, and the floors look great!",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 5,
+        "service": "Hardwood Repair",
+        "text": "We had a few damaged boards in our living room floor and Inimitable Hardwood Floors was able to repair them seamlessly. You can't even tell there was ever any damage. Highly recommend!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Hardwood Installation",
+        "text": "From the initial consultation to the final installation, Inimitable Hardwood Floors was a pleasure to work with. They helped us choose the perfect hardwood flooring for our home and the installation was perfect. Very satisfied!",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Vinyl Flooring",
+        "text": "We had vinyl flooring installed in our bathroom and it looks fantastic! The installers were professional and courteous, and the price was very competitive. Would definitely use them again.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Custom Flooring Designs",
+        "text": "Inimitable Hardwood Floors created a beautiful custom border for our dining room floor. It's a true work of art and adds so much character to our home. The craftsmanship is impeccable!",
+        "date": "2024-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tulsa Flooring Contractor | Inimitable Hardwood Floors",
+        "description": "Expert hardwood flooring installation, refinishing, and repair in Tulsa, OK. Get a free quote from Inimitable Hardwood Floors!"
+      },
+      "about": {
+        "title": "About Us | Inimitable Hardwood Floors Tulsa",
+        "description": "Learn about Inimitable Hardwood Floors, Tulsa's trusted flooring contractor. Quality craftsmanship and customer satisfaction guaranteed."
+      },
+      "services": {
+        "title": "Flooring Services | Tulsa, OK | Inimitable Hardwood",
+        "description": "Hardwood installation, refinishing, laminate & vinyl flooring in Tulsa. Expert service, free estimates. Call Inimitable Hardwood Floors!"
+      },
+      "contact": {
+        "title": "Contact Us | Tulsa Flooring Experts",
+        "description": "Contact Inimitable Hardwood Floors for a free quote on your next flooring project in Tulsa, OK. Call +19188091012 today!"
+      },
+      "reviews": {
+        "title": "Customer Reviews | Inimitable Hardwood Floors",
+        "description": "Read reviews from satisfied customers in Tulsa. See why Inimitable Hardwood Floors is the trusted choice for flooring."
+      },
+      "service-areas": {
+        "title": "Service Areas | Inimitable Hardwood Floors",
+        "description": "Inimitable Hardwood Floors provides flooring services in Tulsa and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-installation": "/images/service-hardwood-installation.webp",
+      "hardwood-refinishing": "/images/service-hardwood-refinishing.webp",
+      "hardwood-repair": "/images/service-hardwood-repair.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "custom-flooring-designs": "/images/service-custom-flooring-designs.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-installation": {
+        "src": "/images/service-hardwood-installation.webp",
+        "srcset": "/images/service-hardwood-installation-400w.webp 400w, /images/service-hardwood-installation-800w.webp 800w, /images/service-hardwood-installation-1200w.webp 1200w, /images/service-hardwood-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardwood-refinishing": {
+        "src": "/images/service-hardwood-refinishing.webp",
+        "srcset": "/images/service-hardwood-refinishing-400w.webp 400w, /images/service-hardwood-refinishing-800w.webp 800w, /images/service-hardwood-refinishing-1200w.webp 1200w, /images/service-hardwood-refinishing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardwood-repair": {
+        "src": "/images/service-hardwood-repair.webp",
+        "srcset": "/images/service-hardwood-repair-400w.webp 400w, /images/service-hardwood-repair-800w.webp 800w, /images/service-hardwood-repair-1200w.webp 1200w, /images/service-hardwood-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-flooring-designs": {
+        "src": "/images/service-custom-flooring-designs.webp",
+        "srcset": "/images/service-custom-flooring-designs-400w.webp 400w, /images/service-custom-flooring-designs-800w.webp 800w, /images/service-custom-flooring-designs-1200w.webp 1200w, /images/service-custom-flooring-designs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
